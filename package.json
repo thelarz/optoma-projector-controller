@@ -4,7 +4,7 @@
   "description": "Simple utility to control Optoma brand projectors",
   "main": "index.js",
   "bin": {
-    "test-module-exec": "index.js"
+    "optoma-projector": "index.js"
   },
   "preferGlobal": true,
   "dependencies": {
