@@ -1,6 +1,6 @@
 {
   "name": "optoma-projector-controller",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Simple utility to control Optoma brand projectors",
   "main": "index.js",
   "bin": {
