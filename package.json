@@ -10,6 +10,9 @@
   "dependencies": {
     "projector-controller": "^1.0.1"
   },
+  "publishConfig": {
+    "registry": "https://registry.npmjs.org/"
+  },
   "devDependencies": {},
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
